@@ -9,10 +9,6 @@ const Card = ({
 }) => {
   return (
     <div>
-      {/* <img src="https://images.pexels.com/photos/13024626/pexels-photo-13024626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="green car" />
-        <h1 className='text-2xl bg-green-500 p-3 rounded-md'>Photo Card</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt dolor quia non temporibus expedita laudantium doloremque, ex neque facilis similique eos explicabo dolores repellat. Beatae fugiat veniam nulla illum laboriosam?</p> */}
-
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
         <img
           className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto"
