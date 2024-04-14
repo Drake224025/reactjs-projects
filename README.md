@@ -55,5 +55,6 @@ Here are the projects included in this repository along with their descriptions:
 
     - Description: Implement local storage with Context API for managing application data. This project combines the use of Context API with local storage to persist data and manage state in a React application, focusing on a todo list management functionality.
 
-11. **custom-react**
-    - Description: Create custom React components from scratch. This project involves building custom React components to understand the underlying mechanisms of React and how components are structured and rendered.
+11. **11-weather-app-openweathermap**
+
+    - Description: Fetch and display real-time weather data using the OpenWeatherMap API. Features include temperature, conditions, humidity, and wind speed presented for user-specified cities. Leverages API calls for accurate, up-to-date information.
