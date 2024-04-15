@@ -92,7 +92,7 @@ export default function WeatherApp() {
         <div className="element">
           <img src={windIcon} alt="" className="icon" />
           <div className="data">
-            <div className="humidity-percentage">18 kmh</div>
+            <div className="wind-rate">18 kmh</div>
             <div className="text">Wind Speed</div>
           </div>
         </div>
